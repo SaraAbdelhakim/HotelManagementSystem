@@ -1,0 +1,2 @@
+Booking ID: 50005, Bill Amount: 3100 EUR
+Booking ID: 90009, Bill Amount: 2000 EURBooking ID: 20002, Bill Amount: 3100 EUR

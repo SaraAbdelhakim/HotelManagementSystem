@@ -1,0 +1,5 @@
+101,booked,1,200
+202,available,1,100
+303,available,1,250
+404,booked,1,100
+505,available,1,150

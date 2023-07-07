@@ -1,0 +1,2 @@
+Sara,female,20,221b,123456789,egyptian
+joe,male,20,223,2345,egyptian
